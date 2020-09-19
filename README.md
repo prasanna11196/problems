@@ -1,3 +1,3 @@
-# problems
-javascript problems
+## problems
+
 Elementary level javascript problems
